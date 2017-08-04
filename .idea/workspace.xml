@@ -17,8 +17,8 @@
       <file leaf-file-name="mzlp-sort.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/mzlp-sort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="729">
-              <caret line="515" column="0" lean-forward="true" selection-start-line="515" selection-start-column="0" selection-end-line="515" selection-end-column="0" />
+            <state relative-caret-position="603">
+              <caret line="518" column="10" lean-forward="false" selection-start-line="518" selection-start-column="10" selection-end-line="518" selection-end-column="10" />
               <folding>
                 <element signature="e#509#16384#0" expanded="false" />
               </folding>
@@ -172,12 +172,12 @@
       <option name="presentableId" value="Default" />
       <updated>1501804953267</updated>
       <workItem from="1501804954877" duration="15112000" />
-      <workItem from="1501828141978" duration="3737000" />
+      <workItem from="1501828141978" duration="4767000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18849000" />
+    <option name="totallyTimeSpent" value="19879000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -282,8 +282,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/mzlp-sort.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="729">
-          <caret line="515" column="0" lean-forward="true" selection-start-line="515" selection-start-column="0" selection-end-line="515" selection-end-column="0" />
+        <state relative-caret-position="603">
+          <caret line="518" column="10" lean-forward="false" selection-start-line="518" selection-start-column="10" selection-end-line="518" selection-end-column="10" />
           <folding>
             <element signature="e#509#16384#0" expanded="false" />
           </folding>
