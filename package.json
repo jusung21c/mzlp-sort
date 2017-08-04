@@ -7,12 +7,9 @@
   "activationCommands": {
     "atom-workspace": "mzlp-sort:toggle"
   },
-  "repository": "https://github.com/atom/mzlp-sort",
+  "repository": "https://github.com/jusung21c/mzlp-sort",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
-  },
-  "dependencies": {
-    "string-search": "^1.2.0"
   }
 }
