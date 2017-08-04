@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle mzlp-sort",
+        "command": "mzlp-sort:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "mzlp-sort",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "mzlp-sort:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
