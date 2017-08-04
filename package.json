@@ -5,7 +5,7 @@
   "description": "A short description of your package",
   "keywords": [],
   "activationCommands": {
-    "atom-workspace": "mzlp-sort:toggle"
+    "atom-workspace": "mzlp-sort:ifSorting"
   },
   "repository": "https://github.com/jusung21c/mzlp-sort",
   "license": "MIT",
