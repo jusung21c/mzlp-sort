@@ -26,11 +26,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CHANGELOG.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+            <state relative-caret-position="36">
+              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -50,11 +60,11 @@
         <entry file="file://$PROJECT_DIR$/package.json">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="42" />
+              <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="42" />
               <folding>
-                <marker date="1502063840768" expanded="true" signature="0:368" ph="{&quot;name&quot;: &quot;mzlp-sort&quot;...}" />
-                <marker date="1502063840768" expanded="true" signature="190:239" ph="{&quot;atom-workspace&quot;: &quot;mzlp-sort:ifSorting&quot;...}" />
-                <marker date="1502063840768" expanded="true" signature="332:366" ph="{&quot;atom&quot;: &quot;&gt;=1.0.0 &lt;2.0.0&quot;...}" />
+                <marker date="1502069769167" expanded="true" signature="0:386" ph="{&quot;name&quot;: &quot;mzlp-sort&quot;...}" />
+                <marker date="1502069769167" expanded="true" signature="208:257" ph="{&quot;atom-workspace&quot;: &quot;mzlp-sort:ifSorting&quot;...}" />
+                <marker date="1502069769167" expanded="true" signature="350:384" ph="{&quot;atom&quot;: &quot;&gt;=1.0.0 &lt;2.0.0&quot;...}" />
               </folding>
             </state>
           </provider>
@@ -86,6 +96,7 @@
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/lib/mzlp-sort.js" />
         <option value="$PROJECT_DIR$/CHANGELOG.md" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -103,9 +114,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="698" />
-    <option name="y" value="253" />
-    <option name="width" value="974" />
+    <option name="x" value="584" />
+    <option name="y" value="201" />
+    <option name="width" value="1331" />
     <option name="height" value="1040" />
   </component>
   <component name="ProjectView">
@@ -130,16 +141,6 @@
             <path>
               <item name="mzlp-sort" type="b2602c69:ProjectViewProjectNode" />
               <item name="mzlp-sort" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mzlp-sort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mzlp-sort" type="462c0819:PsiDirectoryNode" />
-              <item name="keymaps" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="mzlp-sort" type="b2602c69:ProjectViewProjectNode" />
-              <item name="mzlp-sort" type="462c0819:PsiDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,18 +189,18 @@
       <option name="presentableId" value="Default" />
       <updated>1501804953267</updated>
       <workItem from="1501804954877" duration="15112000" />
-      <workItem from="1501828141978" duration="10457000" />
+      <workItem from="1501828141978" duration="11545000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25569000" />
+    <option name="totallyTimeSpent" value="26657000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="698" y="253" width="974" height="1040" extended-state="0" />
+    <frame x="584" y="201" width="1331" height="1040" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29749477" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21673004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16596195" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -283,11 +284,11 @@
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="42" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="42" />
+          <caret line="11" column="42" lean-forward="false" selection-start-line="11" selection-start-column="33" selection-end-line="11" selection-end-column="42" />
           <folding>
-            <marker date="1502063840768" expanded="true" signature="0:368" ph="{&quot;name&quot;: &quot;mzlp-sort&quot;...}" />
-            <marker date="1502063840768" expanded="true" signature="190:239" ph="{&quot;atom-workspace&quot;: &quot;mzlp-sort:ifSorting&quot;...}" />
-            <marker date="1502063840768" expanded="true" signature="332:366" ph="{&quot;atom&quot;: &quot;&gt;=1.0.0 &lt;2.0.0&quot;...}" />
+            <marker date="1502069769167" expanded="true" signature="0:386" ph="{&quot;name&quot;: &quot;mzlp-sort&quot;...}" />
+            <marker date="1502069769167" expanded="true" signature="208:257" ph="{&quot;atom-workspace&quot;: &quot;mzlp-sort:ifSorting&quot;...}" />
+            <marker date="1502069769167" expanded="true" signature="350:384" ph="{&quot;atom&quot;: &quot;&gt;=1.0.0 &lt;2.0.0&quot;...}" />
           </folding>
         </state>
       </provider>
@@ -312,8 +313,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CHANGELOG.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        <state relative-caret-position="36">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
