@@ -1,7 +1,7 @@
 # MZLP-SORT - LP소스 정렬 패키지
 
 ## 사용법
-![선택](./images/1.png)
+![선택](https://github.com/jusung21c/mzlp-sort/raw/master/images/1.png)
 * 정렬을 원하는 IF문의 시작부터 (첫줄의 ‘IF’ 앞의 탭까지 선택 해야합니다)
 * IF문의 내용의 끝 (~END)까지 선택 (드래그)
 * 단축키 `Ctrl + Alt + Shift + S` 실행
