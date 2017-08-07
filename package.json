@@ -1,7 +1,7 @@
 {
   "name": "mzlp-sort",
   "main": "./lib/mzlp-sort",
-  "version": "0.5.2",
+  "version": "0.5.3",
   "description": "[LP] LP소스 정렬을 위한 패키지",
   "keywords": [
     "mzlp",
