@@ -40,7 +40,7 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+              <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -114,10 +114,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="584" />
-    <option name="y" value="201" />
+    <option name="x" value="78" />
+    <option name="y" value="48" />
     <option name="width" value="1331" />
-    <option name="height" value="1040" />
+    <option name="height" value="907" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -189,15 +189,15 @@
       <option name="presentableId" value="Default" />
       <updated>1501804953267</updated>
       <workItem from="1501804954877" duration="15112000" />
-      <workItem from="1501828141978" duration="11545000" />
+      <workItem from="1501828141978" duration="11700000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26657000" />
+    <option name="totallyTimeSpent" value="26812000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="584" y="201" width="1331" height="1040" extended-state="0" />
+    <frame x="78" y="48" width="1331" height="907" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21673004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -322,7 +322,7 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
           <folding />
         </state>
       </provider>
