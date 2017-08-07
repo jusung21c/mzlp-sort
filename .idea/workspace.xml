@@ -17,11 +17,21 @@
       <file leaf-file-name="mzlp-sort.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/lib/mzlp-sort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="541">
-              <caret line="587" column="61" lean-forward="true" selection-start-line="587" selection-start-column="61" selection-end-line="587" selection-end-column="61" />
+            <state relative-caret-position="487">
+              <caret line="541" column="51" lean-forward="true" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
               <folding>
                 <element signature="e#713#17488#0" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mzlp-sort.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/menus/mzlp-sort.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -94,6 +104,7 @@
         <option value="$PROJECT_DIR$/lib/temp.js" />
         <option value="$PROJECT_DIR$/package.json" />
         <option value="$PROJECT_DIR$/keymaps/mzlp-sort.json" />
+        <option value="$PROJECT_DIR$/menus/mzlp-sort.json" />
         <option value="$PROJECT_DIR$/lib/mzlp-sort.js" />
       </list>
     </option>
@@ -149,6 +160,11 @@
               <item name="mzlp-sort" type="462c0819:PsiDirectoryNode" />
               <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="mzlp-sort" type="b2602c69:ProjectViewProjectNode" />
+              <item name="mzlp-sort" type="462c0819:PsiDirectoryNode" />
+              <item name="menus" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -202,12 +218,12 @@
       <option name="presentableId" value="Default" />
       <updated>1501804953267</updated>
       <workItem from="1501804954877" duration="15112000" />
-      <workItem from="1501828141978" duration="18427000" />
+      <workItem from="1501828141978" duration="19047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33539000" />
+    <option name="totallyTimeSpent" value="34159000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -334,10 +350,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/menus/mzlp-sort.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="9" lean-forward="true" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/lib/mzlp-sort.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="541">
-          <caret line="587" column="61" lean-forward="true" selection-start-line="587" selection-start-column="61" selection-end-line="587" selection-end-column="61" />
+        <state relative-caret-position="487">
+          <caret line="541" column="51" lean-forward="true" selection-start-line="541" selection-start-column="51" selection-end-line="541" selection-end-column="51" />
           <folding>
             <element signature="e#713#17488#0" expanded="false" />
           </folding>

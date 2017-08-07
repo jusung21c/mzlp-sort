@@ -2,25 +2,18 @@
   "context-menu": {
     "atom-text-editor": [
       {
-        "label": "Toggle mzlp-sort",
-        "command": "mzlp-sort:toggle"
+        "label" : "정렬",
+        "submenu" :[
+        {
+          "label": "IF문 정렬!!",
+          "command": "mzlp-sort:ifSorting"
+        },
+        {
+          "label": "@TAG 정렬!!",
+          "command": "mzlp-sort:gSorting"
+        }
+        ]
       }
     ]
-  },
-  "menu": [
-    {
-      "label": "Packages",
-      "submenu": [
-        {
-          "label": "mzlp-sort",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "mzlp-sort:toggle"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+  }
 }
