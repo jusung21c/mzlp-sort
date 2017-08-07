@@ -1,9 +1,13 @@
 {
   "name": "mzlp-sort",
   "main": "./lib/mzlp-sort",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "description": "[LP] LP소스 정렬을 위한 패키지",
-  "keywords": ["mzlp","mediazen","juicyjusung"],
+  "keywords": [
+    "mzlp",
+    "mediazen",
+    "juicyjusung"
+  ],
   "activationCommands": {
     "atom-workspace": "mzlp-sort:ifSorting"
   },
