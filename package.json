@@ -1,7 +1,7 @@
 {
   "name": "mzlp-sort",
   "main": "./lib/mzlp-sort",
-  "version": "0.4.2",
+  "version": "0.5.0",
   "description": "[LP] LP소스 정렬을 위한 패키지",
   "keywords": [
     "mzlp",
@@ -9,7 +9,10 @@
     "juicyjusung"
   ],
   "activationCommands": {
-    "atom-workspace": ["mzlp-sort:ifSorting","mzlp-sort:gSorting"]
+    "atom-workspace": [
+      "mzlp-sort:ifSorting",
+      "mzlp-sort:gSorting"
+    ]
   },
   "repository": "https://github.com/jusung21c/mzlp-sort",
   "license": "MIT",
