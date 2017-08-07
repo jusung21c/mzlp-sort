@@ -9,7 +9,7 @@
     "juicyjusung"
   ],
   "activationCommands": {
-    "atom-workspace": "mzlp-sort:ifSorting"
+    "atom-workspace": ["mzlp-sort:ifSorting","mzlp-sort:gSorting"]
   },
   "repository": "https://github.com/jusung21c/mzlp-sort",
   "license": "MIT",
