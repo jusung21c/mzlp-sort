@@ -13,15 +13,9 @@
 * 의 구조를 따라야지 인식이 됩니다.
 
 # IF문 N.DIALOG = something 정렬
-* IF 'N.DIALOG = A | N.DIALOG = B' THEN
+* IF `N.DIALOG = A | N.DIALOG = B` THEN
 * N.DIALOG 처음과 끝 선택
-* 'ctrl + alt + shift + F' or '우클릭-정렬(|or정렬)'
-
-* mzlp-pack의 Fold(접기기능)을 사용하면 더 편리합니다.
-* `ctrl + alt + a` 전체접기
-* `ctrl + alt + s` 현재 커서 스코프 접기
-* `ctrl + alt + d` 현재 커서 스코프 펼치기
-* `ctrl + alt + f` 전체펼치기
+* `ctrl + alt + shift + F` or `우클릭-정렬(|or정렬)`
 
 # N_TAG 정렬!!
 * ![엔텤우클릭](https://github.com/jusung21c/mzlp-sort/raw/master/images/3.png)
@@ -29,3 +23,10 @@
 * 우클릭후 정렬 -> `@TAG 정렬` 클릭!
 * 쌍따옴표 포함하면 지워져 버리니 꼭꼭 안에 내용만 선택해주세요!!
 * 정렬후 보기좋게 `\n` 줄바꿈(엔터) 처리!
+
+# 기타
+* mzlp-pack의 Fold(접기기능)을 사용하면 더 편리합니다.
+* `ctrl + alt + a` 전체접기
+* `ctrl + alt + s` 현재 커서 스코프 접기
+* `ctrl + alt + d` 현재 커서 스코프 펼치기
+* `ctrl + alt + f` 전체펼치기
