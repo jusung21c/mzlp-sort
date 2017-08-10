@@ -12,6 +12,11 @@
 * `2탭(\t\t)` END  -> 끝
 * 의 구조를 따라야지 인식이 됩니다.
 
+# IF문 N.DIALOG = something 정렬
+* IF 'N.DIALOG = A | N.DIALOG = B' THEN
+* N.DIALOG 처음과 끝 선택
+* 'ctrl + alt + shift + F' or '우클릭-정렬(|or정렬)'
+
 * mzlp-pack의 Fold(접기기능)을 사용하면 더 편리합니다.
 * `ctrl + alt + a` 전체접기
 * `ctrl + alt + s` 현재 커서 스코프 접기

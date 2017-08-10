@@ -1,6 +1,7 @@
 {
   "atom-workspace": {
     "ctrl-alt-shift-s": "mzlp-sort:ifSorting",
-    "ctrl-alt-shift-d": "mzlp-sort:gSorting"
+    "ctrl-alt-shift-d": "mzlp-sort:gSorting",
+    "ctrl-alt-shift-f": "mzlp-sort:orSorting"
   }
 }

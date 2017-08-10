@@ -11,7 +11,8 @@
   "activationCommands": {
     "atom-workspace": [
       "mzlp-sort:ifSorting",
-      "mzlp-sort:gSorting"
+      "mzlp-sort:gSorting",
+      "mzlp-sort:orSorting"
     ]
   },
   "repository": "https://github.com/jusung21c/mzlp-sort",

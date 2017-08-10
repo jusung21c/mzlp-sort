@@ -11,7 +11,11 @@
         {
           "label": "@TAG 정렬!!",
           "command": "mzlp-sort:gSorting"
-        }
+        },
+          {
+            "label": " |(or) 정렬!!",
+            "command": "mzlp-sort:orSorting"
+          }
         ]
       }
     ]
